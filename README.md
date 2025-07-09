@@ -43,7 +43,7 @@ Each distribution includes:
 
 ## 📸 Sample Output
 
-![Centeral Limit Theorem Example]([images/Screenshot 2025-07-09 124948.png])
+![Centeral Limit Theorem Example]([https://github.com/lourina222/Probability-Distributions-Visualized-in-Python-/blob/main/images/Screenshot%202025-07-09%20124948.png])
 
 ---
 
