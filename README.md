@@ -43,7 +43,7 @@ Each distribution includes:
 
 ## 📸 Sample Output
 
-![Centeral Limit Theorem Example]([path/to/your/image.png](https://drive.google.com/file/d/1VtppO1S1-TlGtH5YGeuCN0S47NFGXT5-/view?usp=sharing))
+![Centeral Limit Theorem Example]([https://drive.google.com/file/d/1VtppO1S1-TlGtH5YGeuCN0S47NFGXT5-/view?usp=sharing])
 
 ---
 
